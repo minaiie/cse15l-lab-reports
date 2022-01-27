@@ -83,6 +83,6 @@ There are sveral ways to make our programming faster. One way would be to add a 
 ```
 $ ssh cs15lwi22@ieng6.ucsd.edu "ls"; cp WhereAmI.java; javac WhereAmI.java; java WhereAmI
 ```
-
+![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-01-26%20at%207.57.59%20PM.png)
 
 
