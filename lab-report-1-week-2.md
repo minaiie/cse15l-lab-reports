@@ -79,6 +79,7 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 # Optimizing Remote Running
 <img width="540" alt="Screen Shot 2022-01-14 at 5 47 23 PM" src="https://user-images.githubusercontent.com/92061511/149604324-9b369b9d-9bc6-4416-80fb-1b4b5b4ff8b8.png">
 There are sveral ways to make our programming faster. One way would be to add a command after an ssh command to run it directly on the remote server. Semicolons also allow for multiple commands to run on one line. For example:
+
 ```
 $ ssh cs15lwi22@ieng6.ucsd.edu "ls"; cp WhereAmI.java; javac WhereAmI.java; java WhereAmI
 ```
