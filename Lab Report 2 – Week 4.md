@@ -2,7 +2,17 @@
 ## Code Change 1
 ![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-02%20at%203.49.23%20PM.png)
 Link to failure inducing file: [Test File 2]https://github.com/minaiie/markdown-parse/blob/main/test-file2.md)
+### Command used to produce the output
+
+`
+javac MarkdownParse.java
+`
+
+`
+java MarkdownParse test-file2.md
+`
 ### Failing Output
+
 `
 [https(, https(, this is an image address]
 `
@@ -20,7 +30,17 @@ The problem arises when the link itself contained brackets or parentheses becaus
 ![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-02%20at%204.00.45%20PM.png)
 Link to failure inducing file: [Test 6](https://github.com/minaiie/markdown-parse/blob/main/test-6.md)
 
+
+### Command used to produce the output
+
+`
+javac MarkdownParse.java`
+
+`
+java MarkdownParse test-file6.md
+`
 ### Failing Output
+
 `
 [pages.com]
 `
@@ -31,7 +51,17 @@ Our newly implemented `MarkdownParse.java` incudes a helper method `isOfLinkForm
 ## Code Change 3
 ![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-02%20at%204.37.36%20PM.png)
 Link to failure inducing file: [Test File 8](https://github.com/minaiie/markdown-parse/blob/main/test-file8.md)
+
+### Command used to produce the output
+
+`
+javac MarkdownParse.java`
+
+`
+java MarkdownParse test-file8.md
+`
 ### Failing Output
+
 `
 [a link on the first line]
 `
