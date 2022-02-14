@@ -5,7 +5,7 @@
 The `ssh` process of logging into ieng6 can be streamlined through the command `ssh ieng6`. I created a file named `config` in the `.ssh` directory and filled with the information above to login.
 
 ## SSH Login With New Alias
-![Image]()
+![Image](https://github.com/minaiie/Skill-Demo/blob/main/Screen%20Shot%202022-02-11%20at%2010.19.56%20PM.png)
 
 After the `ssh ieng6` terminal command is setup, I can automatically logged in using a one liner. 
 
