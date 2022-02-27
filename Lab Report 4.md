@@ -59,8 +59,8 @@
 ___
 ## Code Snippet Questions
 ### Snippet 1
-Yes, I think that there is a small code change that can be made to make the code in snippet 1 work and all related cases with backticks. Since our code looks at the markdown file line by line, we can check for any backticks within the line. If there is, we can ignore anything between the backticks, or even the entire line.
+Yes. Our code checks the markdown file line by line. By adding a procedure to check for  backticks within the line and ignore the stuff between the backticks, the program will work for snippet 1 and all related cases
 ### Snippet 2
-Yes, I think there is a small code change that can be made to make the code in snippet 2 work and all related cases for nested parentheses and related characters. The code got every link right except the first one, which is indicative that a small fix can make the code function properly. Our code already has a version of parentheses matching ability, so refining that portion of the code could lead to the snippet working.
+Yes. Our code got every link right except `)](b.com`, meaning a fix in the parentheses matching methods can make our program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets.
 ### Snippet 3
-No, making snippet 3 work and all related cases would with newlines would require a more involved change. Since our code parses the markdown file by line, it assumes each line contains a link container and the link itself. Making our implementation work for the case with newline characters would involve a more robust parentheses matching over multiple indexes in our parsed markdown file array.
+No. Our program misses all the contents within the snippet. While our code assumes each line contains a link container and the link, it requires more indepth changes in adopting newline characters to try to make it work for snippet 3 and all related cases that have newlines in brackets and parentheses
