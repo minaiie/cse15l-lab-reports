@@ -5,7 +5,7 @@
 
 ## Snippet 1
 ### Markdown Preview
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.33.18%20PM.png)
+![Image](./blob/main/Screen%20Shot%202022-02-26%20at%209.33.18%20PM.png)
 ### JUnit Tester Code
 ```
 @Test
