@@ -5,7 +5,7 @@
 
 ## Snippet 1
 ### Markdown Preview
-![Image](./blob/main/Screen%20Shot%202022-02-26%20at%209.33.18%20PM.png)
+![Image](./9.33.18.png)
 ### JUnit Tester Code
 ```
 @Test
@@ -17,13 +17,13 @@
     }
 ```
 ### My Implementation Tester Output
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.33.39%20PM.png)
+![Image](./9.33.39.png)
 ### Reviewed Implementation Tester Output
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.33.47%20PM.png)
+![Image](./9.33.47.png)
 
 ## Snippet 2
 ### Markdown Preview
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.33.56%20PM.png)
+![Image](./9.33.56.png)
 ### JUnit Tester Code
 ```
 @Test
@@ -35,13 +35,13 @@
     }
 ```
 ### My Implementation Tester Output
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.34.09%20PM.png)
+![Image](./9.34.09.png)
 ### Reviewed Implementation Tester Output
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.34.21%20PM.png)
+![Image](./9.34.21.png)
 
 ## Snippet 3
 ### Markdown Preview
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.34.31%20PM.png)
+![Image](./9.34.31.png)
 ### JUnit Tester Code
 ```
 @Test
@@ -53,9 +53,9 @@
     }
 ```
 ### My Implementation Tester Output
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.34.53%20PM.png)
+![Image](./9.34.53.png)
 ### Reviewed Implementation Tester Output
-![Image](https://github.com/minaiie/cse15l-lab-reports/blob/main/Screen%20Shot%202022-02-26%20at%209.35.04%20PM.png)
+![Image](./9.35.04.png)
 ___
 ## Code Snippet Questions
 ### Snippet 1
