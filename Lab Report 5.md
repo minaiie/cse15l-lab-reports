@@ -55,5 +55,5 @@ String linkContainer = "";
 //this obtains the whole container like [Link]
 if (firstBracket >=0 && pivotalSeq > firstBracket)
     linkContainer = s.substring(firstBracket,pivotalSeq+1);
-```
+``` 
 My group's code needs to determine which  pivotal sequence is the correct one to make it work for `516.md`.
